@@ -48,3 +48,5 @@
 
 <h1>📊 GitHub Stats:</h1>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=samyukthv&theme=dark&background=000000" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark" alt=""/>
+    
