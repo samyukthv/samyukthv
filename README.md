@@ -9,7 +9,7 @@
 🌐 Socials:
 
 <div >
- <a>
+ <a href="https://www.instagram.com/samyukth._/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/samyukth._/">
@@ -20,8 +20,8 @@
 
 💻 Tech Stack:
 <div >
-  <a href="https://www.instagram.com/samyukth._/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a >
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Instagram Badge"/>
   </a>
   <a>
     
