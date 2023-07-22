@@ -46,4 +46,5 @@
 </div>
 
 
-<h1>### :fire: My Stats:</h1>
+<h1>fire: My Stats:</h1>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samyukthv" alt=""/>
