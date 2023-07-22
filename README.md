@@ -54,6 +54,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=samyukthv&theme=algolia&show_icons=true" alt=""/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=samyukthv&theme=dark&background=000000" alt=""/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyukthv&layout=compact&theme=vision-friendly-dark" alt=""/>
-    <img src="https://profile-counter.glitch.me/{samyukthv}/count.svg" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=samyukthv" alt=""/>
     
   
