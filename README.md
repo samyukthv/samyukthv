@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif"/>
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"/>
 </div>
 <h1>💫 About Me:</h1>
 👋 Hi there, my name is Samyukth N Vinod and I am a MERN stack developer. I am a self-taught developer who is passionate about creating clean, efficient, and functional web applications. 💻🚀 With my expertise in MongoDB, Express, React, and Node.js, I am able to build dynamic and responsive websites that meet the needs of businesses and users alike.
